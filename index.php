@@ -7,4 +7,6 @@
 	
 	echo $var + $var2;
 
+	echo "teste";
+
 ?>
